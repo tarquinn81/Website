@@ -1,0 +1,37 @@
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    padding-bottom: 5px;
+    border-bottom: solid 1px #555555;
+}   
+a{
+    font-family: poppins;
+    color: black;
+    font-weight: 800;
+}
+.footer {
+    bottom: 5px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    position: fixed;
+}
+h3 {
+    font-family: poppins;
+    font-weight: 800;
+    font-size: large;
+}
+body {
+    display: block;
+    margin: 40px;
+    margin-top: 8px;
+    margin-right: 20px;
+    margin-bottom: 8px;
+    margin-left: 20px;
+}

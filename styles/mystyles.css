@@ -1,0 +1,35 @@
+h1{
+    font-family: poppins;
+    font-size: large;
+}
+h2{
+    font-family: poppins;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}    
+li{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+ol{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+a{
+    color: white;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  .text-center {
+    text-align: center;
+  }
